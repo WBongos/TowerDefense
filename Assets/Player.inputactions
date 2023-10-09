@@ -1,0 +1,76 @@
+{
+    "name": "Player",
+    "maps": [
+        {
+            "name": "Inputs",
+            "id": "d1da9186-40c9-457e-bc72-50955877cae2",
+            "actions": [
+                {
+                    "name": "PlaceTower",
+                    "type": "Button",
+                    "id": "67137c3a-50b2-4ad1-9262-747f68a3bbe1",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "RemoveTower",
+                    "type": "Button",
+                    "id": "07c93898-0be5-422e-b7c0-8bea63970857",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "141c6792-6488-4f6a-b83e-bb8e96b29a28",
+                    "path": "<Touchscreen>/primaryTouch/tap",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlaceTower",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "95e3003e-946e-4970-bef4-106143ec9c8d",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PlaceTower",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0d57dd40-a490-4b5b-bfdf-2a44a7f1dcf1",
+                    "path": "<Touchscreen>/Press",
+                    "interactions": "Press(behavior=2)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RemoveTower",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f59a77d7-4912-4c13-9d16-088cdd4e8d42",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RemoveTower",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

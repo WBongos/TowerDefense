@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd462ff84a6da22419d46ccaec49a678, type: 3}
+  m_Name: "Ca\xF1on"
+  m_EditorClassIdentifier: 
+  Lvl: 1
+  Vida: 500
+  Velocidad: 0.8
+  Rango: 3
+  "Da\xF1o": 50
+  Valor: 400

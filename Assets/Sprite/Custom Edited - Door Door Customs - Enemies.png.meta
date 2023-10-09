@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 8d876f01b07534b4795d9b998fddcc81
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 119
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d08ea0b1c3bbc3489ecc46307d2653e
+      internalID: 600116610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 119
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6c45cd879c07d49adcd6cf0f5d12c0
+      internalID: 1155080119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 119
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac69e7cc3c9d3d740b78943be32a536e
+      internalID: 501737511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 119
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8405b1a438cad40a96e15139ffef16
+      internalID: 215392530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 119
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bd6950136690e4cbb9c70f25882b30
+      internalID: -1860316522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 119
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789daaa7db550a4449db8e60ed9e44a4
+      internalID: -1364230612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a1c9d4bdc712a4e8b00be60d404e00
+      internalID: 1322140631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 100
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5ca36703e4e5549bdda0f1f5556917
+      internalID: 793642335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 100
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21bf421ef7331c4190c7d489352efb4
+      internalID: 310649084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 100
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fd6d42908f77447836278ae7e69254
+      internalID: -1544527342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 92
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08841c2aaf76d3844972c8b245779fae
+      internalID: -1292147398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 92
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691cba67bebd17f47acbda09edc4d2b3
+      internalID: 1928501760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 92
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15532a71820695f4692d2a80f32034e3
+      internalID: -370742716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 92
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ac485c3b2f71d4495712b4584d2b77
+      internalID: -98544133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 90
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11698c0594428de4689c134ccaba9dc4
+      internalID: 1191512118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 92
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d5138526b5b7a4dba99623bae9848e
+      internalID: -935905982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 92
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e76344529f424c418ab72851f031047
+      internalID: -110994013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 71
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cc0f50b540c58409be992606a3a86a
+      internalID: 566363185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 71
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1c00608b891f14796c65d1cbc46fae
+      internalID: 420893455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305709a629db845ae341ad2be780e8
+      internalID: 628502499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 71
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3870a30e5f72ac4796ca383cf6eac96
+      internalID: -1287910534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 44
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c94e3783b947fd4898f2cfcdf69c7cb
+      internalID: -1573242988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 63
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dde03f7e7668e408e7395792aa5344
+      internalID: -1738345896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 63
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9732f4b039ea9f74aa8af3451bbd912f
+      internalID: -1292516939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c17dafbbdf4b04683dd53f33eedd4f
+      internalID: 1872007695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 63
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad41cd89ed3b4494c9c5973ee0cd74b0
+      internalID: 435448526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 63
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d19387f3fbd11f46b6718c903649f7d
+      internalID: 1824526380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 63
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9fed42c5bfce540a8738a8e3781141
+      internalID: -711549441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 44
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3666ae8c18f2544afc96935084403a
+      internalID: 1374567127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 44
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fe67e1d6dbc994eab21fc05a4f10c4
+      internalID: -2128944009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 44
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c31079cd59e3745a6bedf8ed765c4a
+      internalID: 2071243413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 36
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd706156663c244ca29362b728b50ac
+      internalID: 1349748599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 36
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a6f4c809a655d45bf8003115daaa99
+      internalID: 1615977493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 34
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47be9acfd4fc3a8409049f1bfe078f29
+      internalID: -995253842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 34
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505a26685c7a29d4893b09e569f143d1
+      internalID: -1941183702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 36
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccca1666a60b1ec4291160f845b9b27b
+      internalID: 694074728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 36
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efcd71434b069d41bb1f1c8e186af4d
+      internalID: 521984824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562312ec2dc5744409860c0becfd2887
+      internalID: 340627285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 12
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd56b53c25cd2fd4d8dee999961fd144
+      internalID: -448846586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 12
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ee44fd4ca5f784a803251c2ed43a89
+      internalID: -1314922202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 12
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a5167259bc3b748b4fa89165a539e1
+      internalID: 793603051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 12
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf50d0620a1250478f7ad71d896cee2
+      internalID: 1700607763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a585be77365fd074b93e9ee42ca53745
+      internalID: 1117016108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69114ec58eb484d4fa78aadf208e1328
+      internalID: 664405151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcea177fb0f843a42bbc71737e6c93f2
+      internalID: -2146662961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 3
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf7e75b12cdab147a713762dc438ebc
+      internalID: -150603910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4df21b4ecbd2348ade553747d19757
+      internalID: 736650363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Door Door Customs - Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b423aa33ab1a042b1013ab6d561b17
+      internalID: -1098626345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Door Door Customs - Enemies_0: 600116610
+      Custom Edited - Door Door Customs - Enemies_1: 1155080119
+      Custom Edited - Door Door Customs - Enemies_10: -1292147398
+      Custom Edited - Door Door Customs - Enemies_11: 1928501760
+      Custom Edited - Door Door Customs - Enemies_12: -370742716
+      Custom Edited - Door Door Customs - Enemies_13: -98544133
+      Custom Edited - Door Door Customs - Enemies_14: 1191512118
+      Custom Edited - Door Door Customs - Enemies_15: -935905982
+      Custom Edited - Door Door Customs - Enemies_16: -110994013
+      Custom Edited - Door Door Customs - Enemies_17: 566363185
+      Custom Edited - Door Door Customs - Enemies_18: 420893455
+      Custom Edited - Door Door Customs - Enemies_19: 628502499
+      Custom Edited - Door Door Customs - Enemies_2: 501737511
+      Custom Edited - Door Door Customs - Enemies_20: -1287910534
+      Custom Edited - Door Door Customs - Enemies_21: -1573242988
+      Custom Edited - Door Door Customs - Enemies_22: -1738345896
+      Custom Edited - Door Door Customs - Enemies_23: -1292516939
+      Custom Edited - Door Door Customs - Enemies_24: 1872007695
+      Custom Edited - Door Door Customs - Enemies_25: 435448526
+      Custom Edited - Door Door Customs - Enemies_26: 1824526380
+      Custom Edited - Door Door Customs - Enemies_27: -711549441
+      Custom Edited - Door Door Customs - Enemies_28: 1374567127
+      Custom Edited - Door Door Customs - Enemies_29: -2128944009
+      Custom Edited - Door Door Customs - Enemies_3: 215392530
+      Custom Edited - Door Door Customs - Enemies_30: 2071243413
+      Custom Edited - Door Door Customs - Enemies_31: 1349748599
+      Custom Edited - Door Door Customs - Enemies_32: 1615977493
+      Custom Edited - Door Door Customs - Enemies_33: -995253842
+      Custom Edited - Door Door Customs - Enemies_34: -1941183702
+      Custom Edited - Door Door Customs - Enemies_35: 694074728
+      Custom Edited - Door Door Customs - Enemies_36: 521984824
+      Custom Edited - Door Door Customs - Enemies_37: 340627285
+      Custom Edited - Door Door Customs - Enemies_38: -448846586
+      Custom Edited - Door Door Customs - Enemies_39: -1314922202
+      Custom Edited - Door Door Customs - Enemies_4: -1860316522
+      Custom Edited - Door Door Customs - Enemies_40: 793603051
+      Custom Edited - Door Door Customs - Enemies_41: 1700607763
+      Custom Edited - Door Door Customs - Enemies_42: 1117016108
+      Custom Edited - Door Door Customs - Enemies_43: 664405151
+      Custom Edited - Door Door Customs - Enemies_44: -2146662961
+      Custom Edited - Door Door Customs - Enemies_45: -150603910
+      Custom Edited - Door Door Customs - Enemies_46: 736650363
+      Custom Edited - Door Door Customs - Enemies_47: -1098626345
+      Custom Edited - Door Door Customs - Enemies_5: -1364230612
+      Custom Edited - Door Door Customs - Enemies_6: 1322140631
+      Custom Edited - Door Door Customs - Enemies_7: 793642335
+      Custom Edited - Door Door Customs - Enemies_8: 310649084
+      Custom Edited - Door Door Customs - Enemies_9: -1544527342
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
